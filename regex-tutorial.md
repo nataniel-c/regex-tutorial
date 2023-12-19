@@ -18,6 +18,7 @@ This regex can be used to verify whether a set of characters (i.e. a string) mat
 - [Character Classes](#character-classes)
 - [Bracket Expressions](#bracket-expressions)
 - [Greedy and Lazy Match](#greedy-and-lazy-match)
+- [Examples](#examples)
 - [Author](#author)
 
 ## Regex Components
